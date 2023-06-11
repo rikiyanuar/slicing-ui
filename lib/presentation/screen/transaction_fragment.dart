@@ -5,7 +5,6 @@ import 'package:slicing_ui/utils/formatter.dart';
 import '../../domain/entity/order_entity.dart';
 import '../../utils/app_colors.dart';
 import '../../utils/text_styles.dart';
-import '../widgets/button_outline.dart';
 import '../widgets/button_outline_small.dart';
 import '../widgets/dash_divider.dart';
 import '../widgets/option_dropdown.dart';
